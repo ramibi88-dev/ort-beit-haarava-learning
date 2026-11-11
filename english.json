@@ -1,0 +1,458 @@
+{
+  "3 יחידות": [
+    [
+      "Choose the meaning of “happy”.",
+      [
+        "שמח",
+        "עייף",
+        "כועס",
+        "רעב"
+      ],
+      0
+    ],
+    [
+      "Complete: I ___ a student.",
+      [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      0
+    ],
+    [
+      "What is the opposite of “big”?",
+      [
+        "small",
+        "tall",
+        "long",
+        "wide"
+      ],
+      0
+    ],
+    [
+      "Complete: She ___ to school every day.",
+      [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      1
+    ],
+    [
+      "Choose the meaning of “friend”.",
+      [
+        "חבר",
+        "מורה",
+        "שכן",
+        "אח"
+      ],
+      0
+    ],
+    [
+      "Complete: They ___ football yesterday.",
+      [
+        "play",
+        "played",
+        "plays",
+        "playing"
+      ],
+      1
+    ],
+    [
+      "What is the plural of “child”?",
+      [
+        "childs",
+        "children",
+        "childes",
+        "childrens"
+      ],
+      1
+    ],
+    [
+      "Complete: We ___ dinner now.",
+      [
+        "eat",
+        "ate",
+        "are eating",
+        "eats"
+      ],
+      2
+    ],
+    [
+      "Choose the meaning of “important”.",
+      [
+        "חשוב",
+        "מעניין",
+        "קשה",
+        "פשוט"
+      ],
+      0
+    ],
+    [
+      "Complete: He can ___ English.",
+      [
+        "speaks",
+        "speaking",
+        "speak",
+        "spoke"
+      ],
+      2
+    ],
+    [
+      "What is the opposite of “early”?",
+      [
+        "fast",
+        "late",
+        "slow",
+        "young"
+      ],
+      1
+    ],
+    [
+      "Complete: There ___ two books on the table.",
+      [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      1
+    ],
+    [
+      "Choose the correct sentence.",
+      [
+        "She have a dog.",
+        "She has a dog.",
+        "She having a dog.",
+        "She is have a dog."
+      ],
+      1
+    ],
+    [
+      "Complete: My brother is ___ than me.",
+      [
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
+      ],
+      1
+    ],
+    [
+      "Choose the meaning of “usually”.",
+      [
+        "אף פעם",
+        "לפעמים",
+        "בדרך כלל",
+        "אתמול"
+      ],
+      2
+    ]
+  ],
+  "4 יחידות": [
+    [
+      "Choose the meaning of “achievement”.",
+      [
+        "הישג",
+        "כישלון",
+        "ויכוח",
+        "ניסוי"
+      ],
+      0
+    ],
+    [
+      "Complete: If it rains, we ___ at home.",
+      [
+        "stay",
+        "will stay",
+        "stayed",
+        "would stay"
+      ],
+      1
+    ],
+    [
+      "She ___ here since 2022.",
+      [
+        "works",
+        "worked",
+        "has worked",
+        "is working"
+      ],
+      2
+    ],
+    [
+      "Choose the synonym of “difficult”.",
+      [
+        "easy",
+        "challenging",
+        "ordinary",
+        "quiet"
+      ],
+      1
+    ],
+    [
+      "By the time we arrived, the film ___.",
+      [
+        "started",
+        "has started",
+        "had started",
+        "starts"
+      ],
+      2
+    ],
+    [
+      "Choose the meaning of “opportunity”.",
+      [
+        "יכולת",
+        "הזדמנות",
+        "פעילות",
+        "קהילה"
+      ],
+      1
+    ],
+    [
+      "I wish I ___ more free time.",
+      [
+        "have",
+        "had",
+        "will have",
+        "am having"
+      ],
+      1
+    ],
+    [
+      "The book ___ by millions of people.",
+      [
+        "read",
+        "is read",
+        "reads",
+        "is reading"
+      ],
+      1
+    ],
+    [
+      "He studied hard, ___ he passed.",
+      [
+        "although",
+        "therefore",
+        "unless",
+        "despite"
+      ],
+      1
+    ],
+    [
+      "If I ___ you, I would apologize.",
+      [
+        "am",
+        "was",
+        "were",
+        "will be"
+      ],
+      2
+    ],
+    [
+      "Choose the opposite of “increase”.",
+      [
+        "develop",
+        "reduce",
+        "improve",
+        "continue"
+      ],
+      1
+    ],
+    [
+      "She asked me where I ___.",
+      [
+        "live",
+        "lived",
+        "will live",
+        "am living"
+      ],
+      1
+    ],
+    [
+      "Neither Dan nor Maya ___ ready.",
+      [
+        "are",
+        "were",
+        "is",
+        "be"
+      ],
+      2
+    ],
+    [
+      "Choose the meaning of “environment”.",
+      [
+        "סביבה",
+        "ממשלה",
+        "חברה",
+        "השכלה"
+      ],
+      0
+    ],
+    [
+      "The students ___ their work before the lesson ended.",
+      [
+        "finish",
+        "have finished",
+        "had finished",
+        "finishing"
+      ],
+      2
+    ]
+  ],
+  "5 יחידות": [
+    [
+      "Choose the meaning of “inevitable”.",
+      [
+        "נמנע",
+        "בלתי נמנע",
+        "זמני",
+        "מפתיע"
+      ],
+      1
+    ],
+    [
+      "Had I known, I ___ differently.",
+      [
+        "act",
+        "will act",
+        "would have acted",
+        "acted"
+      ],
+      2
+    ],
+    [
+      "Choose the synonym of “substantial”.",
+      [
+        "minor",
+        "considerable",
+        "temporary",
+        "uncertain"
+      ],
+      1
+    ],
+    [
+      "Rarely ___ such an impressive performance.",
+      [
+        "I have seen",
+        "have I seen",
+        "I saw",
+        "did I seeing"
+      ],
+      1
+    ],
+    [
+      "The proposal requires further ___.",
+      [
+        "evaluate",
+        "evaluation",
+        "evaluated",
+        "evaluatingly"
+      ],
+      1
+    ],
+    [
+      "Choose the meaning of “ambiguous”.",
+      [
+        "חד-משמעי",
+        "עמום",
+        "מדויק",
+        "מקובל"
+      ],
+      1
+    ],
+    [
+      "Not only ___ late, but he also forgot the report.",
+      [
+        "he arrived",
+        "did he arrive",
+        "he did arrive",
+        "arrived he"
+      ],
+      1
+    ],
+    [
+      "If the policy had been implemented, costs ___.",
+      [
+        "decrease",
+        "will decrease",
+        "might have decreased",
+        "decreased"
+      ],
+      2
+    ],
+    [
+      "Choose the synonym of “deteriorate”.",
+      [
+        "improve",
+        "worsen",
+        "stabilize",
+        "expand"
+      ],
+      1
+    ],
+    [
+      "It is essential that every applicant ___ the form.",
+      [
+        "completes",
+        "complete",
+        "completed",
+        "will complete"
+      ],
+      1
+    ],
+    [
+      "The findings were ___ with the original hypothesis.",
+      [
+        "consistent",
+        "dependent",
+        "reluctant",
+        "accidental"
+      ],
+      0
+    ],
+    [
+      "No sooner had she arrived ___ the meeting began.",
+      [
+        "when",
+        "than",
+        "then",
+        "that"
+      ],
+      1
+    ],
+    [
+      "Choose the meaning of “plausible”.",
+      [
+        "סביר ואמין",
+        "בלתי אפשרי",
+        "שנוי במחלוקת",
+        "מיותר"
+      ],
+      0
+    ],
+    [
+      "The manager demanded that the issue ___ immediately.",
+      [
+        "is resolved",
+        "be resolved",
+        "was resolving",
+        "will resolve"
+      ],
+      1
+    ],
+    [
+      "Despite ___ extensively, the theory remains controversial.",
+      [
+        "researching",
+        "having been researched",
+        "was researched",
+        "to research"
+      ],
+      1
+    ]
+  ]
+}
