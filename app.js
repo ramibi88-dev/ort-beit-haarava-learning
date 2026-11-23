@@ -6,8 +6,7 @@ async function loadData() {
     fetch('english.json').then(r => r.json()),
     fetch('financial.json').then(r => r.json()),
     fetch('civics.json').then(r => r.json()),
-    fetch('literature.json').then(r => r.json())
-  ]);
+fetch('literature.json?v=2').then(r => r.json())  ])
   initApp();
 }
 
